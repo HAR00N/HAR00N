@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 - 👋 I'm
 
-     <a href="https://github.com/HAR00N" target="_blank"><img src="https://img.shields.io/badge/kkyuheony-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-     <a href="https://www.instagram.com/kkyuhoney/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/rustic606-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+     <a href="https://www.instagram.com/kkyuhoney/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/kkyuheony-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+     <a href="https://github.com/HAR00N" target="_blank"><img src="https://img.shields.io/badge/rustic606-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
  
 - 🔨 Stack Now
 
