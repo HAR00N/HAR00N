@@ -29,4 +29,6 @@ Here are some ideas to get you started:
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Matlab-FFFFF?style=flat-square&logo=matlab&logoColor=white"/></a> -->
 
 - Stack Interested
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=yellow"/></a>
+
+     <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=yellow"/></a>
+   <a href="" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/></a>
