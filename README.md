@@ -22,6 +22,9 @@ Here are some ideas to get you started:
    <a href="" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
    <a href="" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
    <a href="" target="_blank"><img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/></a>
+   <a href="" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>
+   <a href="" target="_blank"><img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
+   
 
 <!--Matlab <img src="https://user-images.githubusercontent.com/10817626/67014544-482be200-f0f5-11e9-8e74-3dd575c8ad83.png" alt="icons-matlab-black" style="max-width: 10%;">
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Matlab-FFFFF?style=flat-square&logo=matlab&logoColor=white"/></a> -->
