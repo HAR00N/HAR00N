@@ -29,7 +29,7 @@ Here are some ideas to get you started:
    <a href="https://github.com/HAR00N" target="_blank"><img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/></a>
    <a href="https://github.com/HAR00N" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>
    <a href="https://github.com/HAR00N" target="_blank"><img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
-   <a href="https://github.com/HAR00N" target="_blank"><img src="https://img.shields.io/badge/M%20Matlab-808080?style=flat-square&logo=matlab&logoColor=white"/></a>
+   <a href="https://github.com/HAR00N" target="_blank"><img src="https://img.shields.io/badge/M%20Matlab-FF7F00?style=flat-square&logo=matlab&logoColor=white"/></a>
 
 
 
