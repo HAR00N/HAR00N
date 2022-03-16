@@ -1,4 +1,4 @@
-### Hi there 👋
+# @HAR00N, Lee_Kyuhoen
 
 <!--
 **HAR00N/HAR00N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,8 @@ Here are some ideas to get you started:
  
 - Stack Now
 
-     <a href="" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
+     <a href="" target="https://github.com/HAR00N"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+   <a href="" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
    <a href="" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
    <a href="" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
    <a href="" target="_blank"><img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/></a>
