@@ -20,4 +20,4 @@ Stack
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Matlab-6DB33F?style=flat-square&https://user-images.githubusercontent.com/10817626/67014544-482be200-f0f5-11e9-8e74-3dd575c8ad83.png&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Matlab-6DB33F?style=flat-square&logo=matlab&logoColor=white"/></a>
