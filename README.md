@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
  
-- Stack Now
+- 🔨 Stack Now
 
      <a href="" target="https://github.com/HAR00N"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
    <a href="" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 
-- Stack Interested
+- 📚 Stack Interested
 
      <a href="" target="_blank"><img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white"/></a>
    <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
