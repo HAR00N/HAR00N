@@ -52,6 +52,8 @@ Here are some ideas to get you started:
    <a href="https://github.com/HAR00N" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>
    <a href="https://github.com/HAR00N" target="_blank"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
    <a href="https://github.com/HAR00N" target="_blank"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>
+   
+     <a href="https://github.com/HAR00N" target="_blank"><img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white"/></a>   
    <br>
    <br>
    <br>
