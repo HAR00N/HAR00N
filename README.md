@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - 🔨 Stack Now
 
      <a href="https://github.com/HAR00N" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+   <a href="https://github.com/HAR00N" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
    <a href="https://github.com/HAR00N" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
    <a href="https://github.com/HAR00N" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
    <a href="https://github.com/HAR00N" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
