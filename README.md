@@ -55,6 +55,8 @@ Here are some ideas to get you started:
    
      <a href="https://github.com/HAR00N" target="_blank"><img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white"/></a>
      <a href="https://github.com/HAR00N" target="_blank"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/></a>
+     <a href="https://github.com/HAR00N" target="_blank"><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/></a>
+     <a href="https://github.com/HAR00N" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/></a>
     <br>
  
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HAR00N&show_icons=true&theme=dark)
