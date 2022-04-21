@@ -54,4 +54,4 @@ Here are some ideas to get you started:
      <a href="#" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/></a>
     <br>
     
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HAR00N&show_icons=true&theme=dark)
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HAR00N&show_icons=true&theme=vue)
