@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ### 🔨 Stack Now
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
+   <a href="#" target="_blank"><img src="https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=subversion&logoColor=white"/></a>
    <a href="#" target="_blank"><img src="https://img.shields.io/badge/M%20Matlab-FF7F00?style=flat-square&logo=matlab&logoColor=white"/></a>
        <a href="#" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>
    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
